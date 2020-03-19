@@ -25,3 +25,8 @@ https://realpython.com/python-speech-recognition/#supported-file-types
 
 http://www.voiptroubleshooter.com/open_speech/american.html
 https://data-flair.training/blogs/python-speech-recognition-ai/
+
+https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
+https://stackabuse.com/introduction-to-speech-recognition-with-python/
+
+
