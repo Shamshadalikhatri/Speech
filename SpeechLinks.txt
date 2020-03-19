@@ -1,0 +1,27 @@
+https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
+https://github.com/rezachu/emotion_recognition_cnn/blob/master/CNN_emotion_recognition.ipynb
+
+https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn
+https://arxiv.org/ftp/arxiv/papers/2002/2002.07590.pdf
+https://scholar.google.com/scholar?as_ylo=2020&q=emotion+recognition+using+speech&hl=en&as_sdt=0,5
+
+https://arxiv.org/ftp/arxiv/papers/1802/1802.06209.pdf
+https://stackoverflow.com/questions/56124231/speech-recognition-recognize-google-unable-to-transcribe-the-audio-which-is-in
+
+https://noti.st/aaronbassett/zxamRv
+http://ceur-ws.org/Vol-2328/3_2_paper_17.pdf
+
+https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/
+https://www.aitimejournal.com/@admond.lee/how-to-build-a-speech-recognition-bot-with-python
+
+https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
+
+https://ftp.osuosl.org/pub/xiph/releases/flac/
+
+python -m pip install pyaudio
+
+https://github.com/Uberi/speech_recognition/blob/master/examples/audio_transcribe.py
+https://realpython.com/python-speech-recognition/#supported-file-types
+
+http://www.voiptroubleshooter.com/open_speech/american.html
+https://data-flair.training/blogs/python-speech-recognition-ai/
